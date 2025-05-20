@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LandonL26235" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LandonL26235&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
