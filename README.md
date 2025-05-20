@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=0:F28C28,100:FF7F50&height=200&section=header&text=Welcome!&fontSize=90&animation=fadeIn&type=waving&align=center)
+![header](https://capsule-render.vercel.app/api?color=0:F28C28,100:FF7518&height=200&section=header&text=Welcome!&fontSize=90&animation=fadeIn&type=waving&align=center)
 
 ###
 
@@ -51,6 +51,6 @@
 
 ###
 
-![header](https://capsule-render.vercel.app/api?color=0:F28C28,100:FF7F50&height=200&section=footer&animation=fadeIn&type=waving&align=center&rotate=90)
+![header](https://capsule-render.vercel.app/api?color=0:F28C28,100:FF7518&height=200&section=footer&animation=fadeIn&type=waving&align=center&rotate=90)
 
 ###
