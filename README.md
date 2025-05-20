@@ -41,6 +41,6 @@
 
 ###
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&animation=fadeIn&align=center&rotate=180)
+![header](https://capsule-render.vercel.app/api?color=gradient&height=100&section=header&animation=fadeIn&type=wave&align=center)
 
 ###
