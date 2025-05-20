@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/landon-lipe-447a73326/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a> 
-  <a href="https://www.youtube.com/">
+  <a href="h<a href="https://mail.google.com/mail/?view=cm&fs=1&to=landonjlipe4@gmail.com" target="_blank">">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/">  
