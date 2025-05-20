@@ -45,9 +45,7 @@
 
 ###
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=LandonL26235&hide_border=true&fire=AB00FF&ring=AB00FF&currStreakNum=AB00FF&currStreakLabel=AB00FF&stroke=AB00FF&background=000000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LandonL26235&hide_border=true&fire=AB00FF&ring=AB00FF&currStreakNum=AB00FF&currStreakLabel=AB00FF&stroke=AB00FF&background=000000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 ###
 
