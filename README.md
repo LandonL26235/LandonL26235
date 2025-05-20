@@ -15,8 +15,8 @@
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.youtube.com/">  
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://discord.com/">  
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=#7289da&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
 
