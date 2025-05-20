@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LandonL26235&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&ring=ab00ff&fire=ab00ff&currStreak=ab00ff"" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=LandonL26235&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&ring=ab00ff&fire=ab00ff&currStreak=ab00ff" height="220" alt="streak graph" />
 </div>
 
 ###
