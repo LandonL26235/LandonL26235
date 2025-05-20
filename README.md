@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LandonL26235&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=LandonL26235&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
 ###
