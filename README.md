@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LandonL26235&theme=dark&hide_border=true&fire=AB00FF&ring=AB00FF&currStreakNum=AB00FF&currStreakLabel=AB00FF&stroke=AB00FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LandonL26235&theme=dark&hide_border=true&fire=ab00ff&ring=ab00ff&currStreakNum=ab00ff&currStreakLabel=ab00ff&stroke=ab00ff" alt="GitHub Streak" />
 </div>
 
 ###
