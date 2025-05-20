@@ -1,6 +1,4 @@
-<div align="center">
-    <h1>(https://capsule-render.vercel.app/api?color=gradient&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&type=waving)</h1>
-</div>
+![header](https://capsule-render.vercel.app/api?color=gradient&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&type=waving)
 
 ###
 
