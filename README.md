@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Landon L. and I'm a 17yr old Coder, from Grand Blanc, MI</h2>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 ###
 
 <div align="center">
