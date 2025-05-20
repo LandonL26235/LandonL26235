@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Landon L. and I'm a 17yr old Coder, from Grand Blanc, MI</h2>
 
 ###
 
