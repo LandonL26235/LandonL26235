@@ -13,6 +13,8 @@
 
 ###
 
+<h2 align="left">Languages I know!</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
