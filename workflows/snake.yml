@@ -1,5 +1,4 @@
 name: Generate snake animation
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -18,17 +17,24 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: get github repo owner credentials
+        uses: ghactions/gh-action-get-repo-credentials@v2.0.1
+        with:
+          owner: ${{ LandonL26235 }} # Replace with your GitHub repository owner
+          repo_name: ${{ github.repository.name }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: add svg dependencies
+        uses: actions/prepare-zip@v2.1.0
+        with:
+          zip_file_name: svg.zip
+
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: actions/prepare-zip@v2.1.0
         with:
-          github_user_name: ${{ LandonL26235 }}
-          outputs: dist/snake.svg?palette=github-dark
+          zip_file_name: snake.svg.zip
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: save svg file
+        uses: actions/output-file@v2.0.1
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: ./dist/snake.svg
