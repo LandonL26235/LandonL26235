@@ -15,7 +15,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=landonjlipe4@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/">  
+  <a href="https://discord.gg/6PsFGPVuky">  
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289da&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
